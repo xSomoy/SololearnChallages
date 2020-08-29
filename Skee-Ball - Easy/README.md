@@ -14,5 +14,5 @@ A string that say 'Buy it!' if you will have enough tickets, or a string that sa
 <b>Sample Input: </b>
 `500`
 `40`
-<b>Sample Output:</b>
+<b>Sample Input: </b>
 `Buy it!`
